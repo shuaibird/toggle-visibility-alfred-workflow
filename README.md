@@ -11,7 +11,9 @@
 ----
 ## Features / Usages
 ### Setting the target application
-In Alfred type (toggle > [name_of_application]) to set the target application.
+In Alfred type (`toggle > [name_of_application]`) to set the target application.
+
+`toggle` with no argument will set the app currently in focus as the target application.
 
 ### Show / Hide the target app
 Use the pre-set Hotkey, which by default is (ctrl ^ + space), to toggle the visibility of the target app.
